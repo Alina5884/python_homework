@@ -1,0 +1,3 @@
+function: say_hello positional parameters: none keyword parameters: none return: None
+function: all_true positional parameters: [1, 2, 3, 'x'] keyword parameters: none return: True
+function: return_decorator positional parameters: none keyword parameters: {'foo': 123, 'bar': 'abc'} return: <function logger_decorator at 0x1008fa200>
