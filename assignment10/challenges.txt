@@ -1,0 +1,3 @@
+It was tricky to find good selectors, so I used Chrome DevTools and picked li.cp-search-result-item and h2.cp-title a
+I added a wait, saved the results to csv and json, and checked that the files looked okay
+I kept it slow and respected robots.txt

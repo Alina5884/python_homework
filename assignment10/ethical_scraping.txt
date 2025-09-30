@@ -1,0 +1,6 @@
+Restricted: /w/, /api/, /trap/, /wiki/Special: and many admin pages
+
+Special rules: MJ12bot blocked, Mediapartners-Google* blocked, SemrushBot crawl-delay 5, some work bots allowed (IsraBot)
+
+
+robots.txt shows what parts of a site bots can use. It keeps servers safe, stops overload, and makes scraping fair
